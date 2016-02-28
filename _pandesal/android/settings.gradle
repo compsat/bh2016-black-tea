@@ -1,0 +1,3 @@
+rootProject.name = 'pandesal'
+
+include ':app'
